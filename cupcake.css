@@ -1,0 +1,11 @@
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.cupcake {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+}
